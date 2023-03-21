@@ -186,9 +186,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
- ![2_light](2_blinks.jpg)
+ ![off](off.jpg)
 
- ![1_light](1_blinks.jpg)
+ ![on](on.jpg)
  
  
  
